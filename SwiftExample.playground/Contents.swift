@@ -16,3 +16,4 @@ var revOther = [String]()
 revOther.append(contentsOf: other.reversed())
 print(revOther)
 
+print(str)
